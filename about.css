@@ -1,0 +1,86 @@
+.komr {
+    text-align: center;
+}
+
+
+.team{
+    text-align: center;
+}
+
+*/ body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+.column {
+    float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 8px;
+}
+
+.about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+}
+
+.container {
+    padding: 0 16px;
+}
+
+/* .container::after,
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+} */
+
+.title {
+    color: grey;
+}
+
+.button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    background-image: url("https://res.cloudinary.com/rebelwalls/image/upload/b_black,c_fill,e_blur:2000,f_auto,fl_progressive,h_533,q_auto,w_800/v1479371039/article/R12051_image1");
+    /* background-image: url("https://i.pinimg.com/originals/c8/6a/07/c86a076b2d79cdd05f87c5044dfbc51d.jpg") */
+}
+
+footer h1 {
+    font-size: 14px;
+}
+.row{
+    display: flex;
+    flex-direction: column;
+}
+.ca{
+    display: flex;
+}

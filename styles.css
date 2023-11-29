@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+    flex-direction: column;
+    text-align: justify;
+    text-size-adjust: 30%;
+    /* background-image: url(https://virtual-bg.com/wp-content/uploads/2020/06/professional-2-background-for-zoom-or-teams-unsplash.jpg); */
+    padding: 50px;
+    font-size: 20px;
+}
+
+
+/* #assessments tools {
+    image-size: 50px;
+}
+
+.self-assessment {
+    border-image-repeat: no-repeat;
+} */
+
+.kip {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.komar {
+    display: flex;
+    justify-content: center;
+}
+
+.kog {
+    margin-left: 500px;
+}
+
+.kip1 {
+    margin-right: 400px;
+}
+
+.joker {
+    margin-left: 50px;
+}
+
+
+/* .navbar {
+    overflow: hidden;
+    background-image: url("https://i.pinimg.com/originals/c8/6a/07/c86a076b2d79cdd05f87c5044dfbc51d.jpg");
+    justify-content: flex-end;
+    display: flex;
+} */
+
+
+/* 
+footer {
+    display: flex;
+    justify-content: space-between;
+    background-image: url("https://i.pinimg.com/originals/c8/6a/07/c86a076b2d79cdd05f87c5044dfbc51d.jpg")
+} */
+
+
+/* 
+footer h1 {
+    font-size: 14px;
+} */

@@ -1,0 +1,248 @@
+ body {
+        background-image: url("https://cdn.hipwallpaper.com/i/45/98/pBwD9m.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .ji {
+        font-family: rye;
+        font-size: 100px;
+        /* background-image: url("https://i.pinimg.com/originals/d4/43/33/d443331f98d9d762469790e530a70567.jpg"); */
+        background-image: url("https://www.minimundus.de/media/images/org/41120.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+    
+    .ji a {
+        text-decoration: none;
+    }
+    
+    .text {
+        text-transform: uppercase;
+    }
+    
+    .navbar {
+        overflow: hidden;
+        background-image: url("https://res.cloudinary.com/rebelwalls/image/upload/b_black,c_fill,e_blur:2000,f_auto,fl_progressive,h_533,q_auto,w_800/v1479371039/article/R12051_image1");
+        /* background-image: url("https://i.pinimg.com/originals/c8/6a/07/c86a076b2d79cdd05f87c5044dfbc51d.jpg"); */
+        justify-content: flex-end;
+        display: flex;
+    }
+    
+    .navbar a {
+        float: left;
+        text-decoration: none;
+        font-size: 16px;
+        text-align: center;
+        padding: 14px 16px;
+        text-transform: uppercase;
+        color: white;
+    }
+    
+    .dropdown {
+        float: left;
+        overflow: hidden;
+        align-items: flex-end;
+    }
+    
+    .dropdown .dropbtn {
+        font-size: 16px;
+        border: none;
+        outline: none;
+        color: black;
+        padding: 14px 16px;
+        background-color: inherit;
+        font-family: inherit;
+        margin: 0;
+    }
+    
+    .navbar a:hover,
+    .dropdown:hover .dropbtn {
+        background-color: gray;
+    }
+    
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #d3d3d3;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+        min-width: 160px;
+    }
+    
+    .dropdown-content a {
+        text-decoration: none;
+        color: black;
+        padding: 12px 16px;
+        float: none;
+        display: block;
+        text-align: left;
+    }
+    
+    .dropdown-content a:hover {
+        background-color: #b2beb5;
+    }
+    
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+    
+    .fa {
+        padding: 10px;
+        font-size: 20px;
+        width: 35px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+    }
+    
+    .fa-twitter {
+        color: white;
+        background-color: #00acee;
+    }
+    
+    .fa-google {
+        color: white;
+        background-color: #00acee;
+    }
+    
+    .fa-facebook {
+        color: white;
+        background-color: #00acee;
+    }
+    
+    .fa-instagram {
+        color: white;
+        background-color: #00acee;
+    }
+    
+    .fa:hover {
+        opacity: 0.7;
+    }
+    
+    #contacts {
+        font-size: 12px;
+    }
+    
+    footer {
+        display: flex;
+        justify-content: space-between;
+        background-image: url("https://res.cloudinary.com/rebelwalls/image/upload/b_black,c_fill,e_blur:2000,f_auto,fl_progressive,h_533,q_auto,w_800/v1479371039/article/R12051_image1");
+        /* background-image: url("https://i.pinimg.com/originals/c8/6a/07/c86a076b2d79cdd05f87c5044dfbc51d.jpg") */
+    }
+    
+    footer h1 {
+        font-size: 14px;
+    }
+    
+    #picha {
+        font-size: 12px;
+        justify-content: space-between;
+    }
+    
+    #picha a {
+        padding: 40px 0px 40px 0px;
+    }
+    
+    .simu {
+        margin-left: 20px;
+    }
+    
+    .don {
+        font-size: 12px;
+    }
+    
+    .contain {
+        padding: 20px 20px;
+    }
+    
+    .pics {
+        display: flex;
+        justify-content: space-around;
+        padding: 20px;
+        margin-top: 100px;
+    }
+    
+    a {
+        justify-content: flex-end;
+    }
+    
+    .p3 {
+        display: flex;
+        align-items: center;
+        border: 2px solid gray;
+        box-shadow: 2px 2px 5px white;
+    }
+    
+    .p3 p {
+        margin-right: 300px;
+        font-size: 36px;
+        color: black;
+    }
+    
+    .p1 p {
+        font-size: 36px;
+        margin-right: 200px;
+        color: black;
+    }
+    
+    #p2 {
+        font-size: 30px;
+        border: 2px solid grey;
+        box-shadow: 3px 3px 5px white;
+    }
+    
+    .join2 {
+        display: flex;
+        flex-direction: column;
+        margin-right: 500px;
+        align-items: flex-end;
+    }
+    
+    .log {
+        margin-right: 100px;
+    }
+    
+    #images {
+        display: flex;
+        justify-content: space-between;
+        border: 2px dotted blue;
+    }
+    
+    .jit {
+        text-align: center;
+        background-image: url("https://media.tarkett-image.com/large/TH_25121916_25131916_25126916_25136916_001.jpg");
+        /* background-image: url("https://media.istockphoto.com/photos/blue-abstract-background-or-texture-picture-id1138395421?k=6&m=1138395421&s=612x612&w=0&h=bJ1SRWujCgg3QWzkGPgaRiArNYohPl7-Wc4p_Fa_cyA="); */
+    }
+    
+    .jit p {
+        margin-left: 300px;
+        margin-right: 300px;
+        font-size: 30px;
+        color: black;
+    }
+    
+    .jit h1 {
+        text-transform: uppercase;
+        color: wheat;
+    }
+    
+    .p1 {
+        border: 2px solid wheat;
+        margin-right: 300px;
+        margin-bottom: 300px;
+        padding: 5px 5px 20px;
+        box-shadow: 3px 3px 5pxs grey;
+    }
+    
+    .pic-bac {
+        background-image: url("https://c4.wallpaperflare.com/wallpaper/393/472/854/material-style-shapes-colorful-wallpaper-preview.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    #p2 p {
+        color: black;
+    }

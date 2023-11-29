@@ -1,0 +1,150 @@
+body {
+    background-image: url("https://cdn.hipwallpaper.com/i/45/98/pBwD9m.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ji {
+    font-family: rye;
+    font-size: 100px;
+    /* background-image: url("https://i.pinimg.com/originals/d4/43/33/d443331f98d9d762469790e530a70567.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.ji a {
+    text-decoration: none;
+}
+
+.text {
+    text-transform: uppercase;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #464064;
+    justify-content: flex-end;
+    display: flex;
+}
+
+.navbar a {
+    float: left;
+    text-decoration: none;
+    font-size: 16px;
+    text-align: center;
+    padding: 14px 16px;
+    text-transform: uppercase;
+    color: black;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+    align-items: flex-end;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: black;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover,
+.dropdown:hover .dropbtn {
+    background-color: gray;
+}
+
+
+/* .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #97bc62ff;
+            box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+            z-index: 1;
+            min-width: 160px;
+        }
+         */
+
+.dropdown-content a {
+    text-decoration: none;
+    color: black;
+    padding: 12px 16px;
+    float: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 35px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa-twitter {
+    color: white;
+    background-color: #00acee;
+}
+
+.fa-google {
+    color: white;
+    background-color: #00acee;
+}
+
+.fa-facebook {
+    color: white;
+    background-color: #00acee;
+}
+
+.fa-instagram {
+    color: white;
+    background-color: #00acee;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer h1 {
+    font-size: 14px;
+}
+
+.onlinepfa {
+    text-align: justify;
+}
+
+.selfcaretraining {
+    text-align: justify;
+}
+
+.referral {
+    text-align: justify;
+}
+
+#we_serve {}
+
+#firstaid {
+    margin-right: 20px;
+}
+
+#self_care {
+    margin-left: 20px;
+}
